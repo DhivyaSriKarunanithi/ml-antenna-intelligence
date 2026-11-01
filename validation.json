@@ -1,0 +1,24 @@
+{
+  "band": "18\u201319 GHz",
+  "metrics": [
+    {
+      "target": "S11",
+      "mae": "4.6877 dB",
+      "rmse": "6.9497 dB",
+      "r2": "-0.7531"
+    },
+    {
+      "target": "Gain",
+      "mae": "0.3996",
+      "rmse": "0.7354",
+      "r2": "0.7648"
+    },
+    {
+      "target": "VSWR",
+      "mae": "0.1054",
+      "rmse": "0.1275",
+      "r2": "0.6062"
+    }
+  ],
+  "note": "Recorded held-out metrics from existing project work; not a fresh training run."
+}
